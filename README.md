@@ -23,6 +23,8 @@ We used an SQL initialization script to create all the tables and populate the d
 <img width="537" alt="Screenshot 2024-05-09 at 10 19 53 PM" src="https://github.com/atao2004/Instagram-Database-Project/assets/148929819/447fad25-a9ab-484a-b761-58a000aa31c8">
 
 
+
+
 **Before Insertion:**
 
 <img width="525" alt="Screenshot 2024-05-09 at 10 21 03 PM" src="https://github.com/atao2004/Instagram-Database-Project/assets/148929819/e6d745b0-1ddb-46c6-b91b-fa2904a8619d">
@@ -31,6 +33,10 @@ We used an SQL initialization script to create all the tables and populate the d
 **After Insertion:**
 
 <img width="539" alt="Screenshot 2024-05-09 at 10 21 48 PM" src="https://github.com/atao2004/Instagram-Database-Project/assets/148929819/37e21e7e-6ee0-4c16-8931-607d0ee5b052">
+
+
+
+
 
 
 **Post Insertion Query**
@@ -47,6 +53,12 @@ We used an SQL initialization script to create all the tables and populate the d
 
 <img width="553" alt="Screenshot 2024-05-09 at 10 36 11 PM" src="https://github.com/atao2004/Instagram-Database-Project/assets/148929819/72b43202-94ea-47a9-b377-95fa5472ea0e">
 
+
+
+
+
+
+
 **Update Post Location Query:**
 
 <img width="533" alt="Screenshot 2024-05-09 at 10 38 10 PM" src="https://github.com/atao2004/Instagram-Database-Project/assets/148929819/975d3aad-cf61-433e-8b51-4203b1cd9697">
@@ -60,9 +72,20 @@ We used an SQL initialization script to create all the tables and populate the d
 <img width="556" alt="Screenshot 2024-05-09 at 10 40 04 PM" src="https://github.com/atao2004/Instagram-Database-Project/assets/148929819/e54b8b6b-0d80-42bb-ac31-d417ab37e1ea">
 
 
+
+
+
+
+
 **Aggregation with Group By Query:**
 
 <img width="537" alt="Screenshot 2024-05-09 at 10 42 34 PM" src="https://github.com/atao2004/Instagram-Database-Project/assets/148929819/56ba0baf-ede3-400f-bf0b-3d82d92e5a8f">
+
+
+
+
+
+
 
 
 **Aggregation + Having Query:**
@@ -70,9 +93,23 @@ We used an SQL initialization script to create all the tables and populate the d
 <img width="527" alt="Screenshot 2024-05-09 at 10 43 23 PM" src="https://github.com/atao2004/Instagram-Database-Project/assets/148929819/bad68469-927c-48f1-8059-5b0852b59eec">
 
 
+
+
+
+
+
+
 **Nested Aggregation Query:**
 
 <img width="515" alt="Screenshot 2024-05-09 at 10 44 11 PM" src="https://github.com/atao2004/Instagram-Database-Project/assets/148929819/98408416-3cb2-4a37-b107-f277c88d4eb2">
+
+
+
+
+
+
+
+
 
 
 **Division Query:**
