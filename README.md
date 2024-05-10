@@ -4,7 +4,8 @@ Group members: Zoey Ma, Anna Tao, Edmond Ye
 
 Our Projects looks to model the Database of a social media application such as Instagram. In our project we primarily focused on the various operations that can be done using Instagram Users and Instagram Posts.
 
-<img width="1415" alt="Screenshot 2024-05-09 at 10 10 09 PM" src="https://github.com/atao2004/Diamond-Predictor/assets/148929819/af7365fb-c0a0-44bf-87ff-4a69a80daa4d">
+<img width="563" alt="Screenshot 2024-05-09 at 10 48 16 PM" src="https://github.com/atao2004/Instagram-Database-Project/assets/148929819/0510f62a-6e2f-45dc-b116-9bd856355d6a">
+
 
 #Our Entity Relation diagram :
 
